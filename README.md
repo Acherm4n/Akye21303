@@ -67,4 +67,23 @@ _August 2022 – October 2023_
 
 - 🏢 **SOC Management**: 24/7 expertise in network, log, & endpoint monitoring.
 - 🚨 **Incident Response**: Alert handling, investigation, escalation
-
+
+## 🛡️ Security Tools and Technologies
+- Burp Suite
+- Kali Linux
+- Palo Alto Cortex XDR
+- DataDog SIEM
+- Splunk, ELK
+- Sophos
+- Trend Micro XDR Solution
+- Microsoft Defender, Sentinel
+- Microsoft Intune
+- Microsoft Intra
+- Microsoft Azure
+
+## 📋 Compliance and Auditing Skills
+- NIST 800-171 & 800-53
+- ISO 27001
+- CIS Controls
+- PCI
+- SOC 2
