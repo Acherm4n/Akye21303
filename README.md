@@ -96,6 +96,8 @@ _August 2022 – October 2023_
 - PCI
 - SOC 2
 
+
+
 I’ve officially received Security Blue Team  my BTL1 physical certificate and challenge coin (Gold) fresh from United Kingdom.
 Practical 24-hour Incident Response exam.
 The Blue Teaml 1 (BTL1) is an excellent blue team training that covers very exciting domains like:
@@ -110,3 +112,6 @@ I highly recommend that you, as the defenders complete 24 real-world practical l
 
 ![BTL1 phy](https://github.com/user-attachments/assets/9eb95066-5ba1-418b-a788-da7999f88649)
 
+![1](https://github.com/user-attachments/assets/0a1ea2d0-a6d4-4eda-aa09-55a4d1909244)
+
+![2](https://github.com/user-attachments/assets/91c24ea8-c4c0-4561-82d6-709b08768d8c)
