@@ -95,3 +95,18 @@ _August 2022 – October 2023_
 - CIS Controls
 - PCI
 - SOC 2
+
+I’ve officially received Security Blue Team  my BTL1 physical certificate and challenge coin (Gold) fresh from United Kingdom.
+Practical 24-hour Incident Response exam.
+The Blue Teaml 1 (BTL1) is an excellent blue team training that covers very exciting domains like:
+
+Phishing Analysis.
+Threat Hunting.
+Digital Forensics.
+SIEM.
+Incident Response.
+
+I highly recommend that you, as the defenders complete 24 real-world practical labs (CTF challenges) by efficiently using a bunch of tools such as SPLUNK, Volatility, Autopsy, DeepBlue CLI, TheHive5, Wireshark, etc.
+
+![BTL1 phy](https://github.com/user-attachments/assets/9eb95066-5ba1-418b-a788-da7999f88649)
+
