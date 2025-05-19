@@ -17,9 +17,9 @@
 **🛡️ Senior Security Operations Center Specialist** | SupportZebra   
 _March 2025 – Present_
 
-- 🕵️‍♂️ **DFIR Lead**: Managed Digital Forensics & Incident Response, Microsoft Defender, Sentinel; Led 24/7 SOC monitoring.
+- 🕵️‍♂️ **DFIR Lead**: Managed Digital Forensics & Incident Response, Microsoft Defender, Sentinel; TEAM Lead 24/7 SOC monitoring.
 -  **Vulnerability Assessment**: Conducted internal vulnerability assessments & penetration testing.
--  **XDR Management**: Managed Sophos, AWS Account Creation, Microsoft Intune.
+-  **XDR Management**: Managed Palo Alto Cortex XDR, Sophos Firewall, Access Management , Microsoft Intune, Intra, Exchange.
 -  **Compliance**: Oversaw NIST 800-171 & 800-53, FedRAMP, ISO 27001, CIS Controls, PCI, HIPAA, SOC 2.
 
 **🛡️ DFIR Lead** | RocketRealEstateSolutions   
