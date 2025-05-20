@@ -54,7 +54,6 @@ _August 2022 – October 2023_
 - Certified Blue Team Level 1: Security Blue Team
 - Certified Ethical Hacker (CEH): EC-Council
 - SC-200: Microsoft 365 Defender: Microsoft
-- CompTIA Security+: CompTIA
 - Certified AppSec Practitioner (CAP): The SecOps Group
 - Certified Cyber Security Analyst (C3SA): CyberWarfare Labs
 - Certified Ethical Hacking 101: TCM Security
