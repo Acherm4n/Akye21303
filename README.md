@@ -22,6 +22,14 @@ _March 2025 – Present_
 -  **XDR Management**: Managed Palo Alto Cortex XDR, Sophos Firewall, Access Management , Microsoft Intune, Intra, Exchange.
 -  **Compliance**: Oversaw NIST 800-171 & 800-53, FedRAMP, ISO 27001, CIS Controls, PCI, HIPAA, SOC 2.
 
+**🛡️ Incident Response Analyst** | Purple Security Inc.   
+_January 2020 – Present_
+- Spearheaded complex security incident investigations from initial detection to resolution, minimizing impact and recovery time.
+- Developed and implemented incident response plans and playbooks, continuously refining processes based on emerging threats and lessons learned.
+- Conducted in-depth forensic analysis on compromised systems to identify root causes and attacker methodologies.
+- Collaborated cross-functionally with IT and development teams to implement preventative measures and enhance overall security posture.
+- Provided expert guidance and mentorship to junior analysts on incident response best practices and advanced analytical techniques.
+
 **🛡️ DFIR Lead** | RocketRealEstateSolutions   
 _December 2024 – February 2025_
 
@@ -31,7 +39,7 @@ _December 2024 – February 2025_
 -  **Incident Handling**: Triage, determine severity, escalate as needed.
 -  **Threat Hunting & Malware Analysis**
 
-**🔒 Security Operations Center Engineer II** | Adventus IT Services (PH)   
+**🛡️  Security Operations Center Engineer II** | Adventus IT Services (PH)   
 _May 2023 – November 2024_
 
 - **SOC Operations**: Monitored network traffic, logs, & security devices in 24/7 SOC.
@@ -45,6 +53,12 @@ _August 2022 – October 2023_
 - 🔍 Network Penetration Testing
 - 🛠️ Manual Pen Testing
 - 🕸️ Application Security (VAPT)
+
+**🔬 Independent Security Researcher** | Bugcrowd   
+_January 2018 – Present_
+- Actively participated in bug bounty programs, identifying and reporting critical vulnerabilities in web applications, APIs, and network infrastructures.
+- Demonstrated strong proficiency in various vulnerability assessment methodologies and responsible disclosure practices.
+- Continuously honed penetration testing and security analysis skills through real-world challenges and diverse target environments.
 
 ---
 
@@ -88,13 +102,17 @@ _August 2022 – October 2023_
 - Microsoft Intra
 - Microsoft Azure
 
-## 📋 Compliance and Auditing Skills
+##  Compliance and Auditing Skills
 - NIST 800-171 & 800-53
 - ISO 27001
 - CIS Controls
 - PCI
 - SOC 2
 
+##  Recommendations
+Zayd Majid
+
+John Dominick Limpag is my role model in cybersecurity. He began his career as a bug bounty hunter and subsequently secured a position as a Security Operations Center Engineer at Adventus. He is a co-founder of a school organization at Ateneo de Zamboanga University named the Information Security Students Organization, which aims to spread awareness and teach students about cybersecurity. I highly recommend him because he has an unquenchable thirst for knowledge, he is a diligent worker, and he possesses excellent cooperation skills.
 
 
 I’ve officially received Security Blue Team  my BTL1 physical certificate and challenge coin (Gold) fresh from United Kingdom.
