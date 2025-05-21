@@ -22,15 +22,6 @@
 - 🛡️ **XDR Management**: Managed Palo Alto Cortex XDR, Sophos Firewall, Access Management, Microsoft Intune, Intra, Exchange.  
 - ✅ **Compliance**: Oversaw NIST 800-171 & 800-53, FedRAMP, ISO 27001, CIS Controls, PCI, HIPAA, SOC 2.  
 
-## **Incident Response Analyst | Purple Security Inc.**  
-📅 *January 2020 – Present*  
-
-- 🛠️ Spearheaded complex security incident investigations from initial detection to resolution, minimizing impact and recovery time.  
-- 📜 Developed and implemented incident response plans and playbooks, continuously refining processes based on emerging threats and lessons learned.  
-- 🔎 Conducted in-depth forensic analysis on compromised systems to identify root causes and attacker methodologies.  
-- 🤝 Collaborated cross-functionally with IT and development teams to implement preventative measures and enhance overall security posture.  
-- 🏆 Provided expert guidance and mentorship to junior analysts on incident response best practices and advanced analytical techniques.  
-
 ## **DFIR Lead | RocketRealEstateSolutions**  
 📅 *December 2024 – February 2025*  
 
@@ -49,11 +40,20 @@
 - ✅ **Vulnerability Scanning & Compliance**  
 
 ## **Security Consultant (Penetration Tester) | IT Dynamics**  
-📅 *August 2022 – October 2023*  
+📅 *May 2022 - April 2023*  
 
 - 🔍 **Network Penetration Testing**  
 - 🛠️ **Manual Pen Testing**  
 - 🕸️ **Application Security (VAPT)** 
+
+## **Incident Response Analyst | Purple Security Inc.**  
+📅 * January 2019 -March 2022*  
+
+- 🛠️ Spearheaded complex security incident investigations from initial detection to resolution, minimizing impact and recovery time.  
+- 📜 Developed and implemented incident response plans and playbooks, continuously refining processes based on emerging threats and lessons learned.  
+- 🔎 Conducted in-depth forensic analysis on compromised systems to identify root causes and attacker methodologies.  
+- 🤝 Collaborated cross-functionally with IT and development teams to implement preventative measures and enhance overall security posture.  
+- 🏆 Provided expert guidance and mentorship to junior analysts on incident response best practices and advanced analytical techniques.  
 
 **🔬 Independent Security Researcher** | Bugcrowd   
 _January 2018 – Present_
@@ -68,6 +68,7 @@ _January 2018 – Present_
 - Security Analyst (SAL1): TryHackMe
 - Certified Blue Team Level 1: Security Blue Team
 - Certified Ethical Hacker (CEH): EC-Council
+- CompTIA Security+ 
 - SC-200: Microsoft 365 Defender: Microsoft
 - Certified AppSec Practitioner (CAP): The SecOps Group
 - Certified Cyber Security Analyst (C3SA): CyberWarfare Labs
