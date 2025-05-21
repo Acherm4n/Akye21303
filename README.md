@@ -14,45 +14,46 @@
 
 ### 💼 Professional Experience
 
-**🛡️ Senior Security Operations Center Specialist** | SupportZebra   
-_March 2025 – Present_
+## **Senior Security Operations Center Specialist | SupportZebra**  
+📅 *March 2025 – Present*  
 
-- 🕵️‍♂️ **DFIR Lead**: Managed Digital Forensics & Incident Response, Microsoft Defender, Sentinel; TEAM Lead 24/7 SOC monitoring.
--  **Vulnerability Assessment**: Conducted internal vulnerability assessments & penetration testing.
--  **XDR Management**: Managed Palo Alto Cortex XDR, Sophos Firewall, Access Management , Microsoft Intune, Intra, Exchange.
--  **Compliance**: Oversaw NIST 800-171 & 800-53, FedRAMP, ISO 27001, CIS Controls, PCI, HIPAA, SOC 2.
+- 🕵️‍♂️ **DFIR Lead**: Managed Digital Forensics & Incident Response, Microsoft Defender, Sentinel; TEAM Lead 24/7 SOC monitoring.  
+- 🔍 **Vulnerability Assessment**: Conducted internal vulnerability assessments & penetration testing.  
+- 🛡️ **XDR Management**: Managed Palo Alto Cortex XDR, Sophos Firewall, Access Management, Microsoft Intune, Intra, Exchange.  
+- ✅ **Compliance**: Oversaw NIST 800-171 & 800-53, FedRAMP, ISO 27001, CIS Controls, PCI, HIPAA, SOC 2.  
 
-**🛡️ Incident Response Analyst** | Purple Security Inc.   
-_January 2020 – Present_
-- Spearheaded complex security incident investigations from initial detection to resolution, minimizing impact and recovery time.
-- Developed and implemented incident response plans and playbooks, continuously refining processes based on emerging threats and lessons learned.
-- Conducted in-depth forensic analysis on compromised systems to identify root causes and attacker methodologies.
-- Collaborated cross-functionally with IT and development teams to implement preventative measures and enhance overall security posture.
-- Provided expert guidance and mentorship to junior analysts on incident response best practices and advanced analytical techniques.
+## **Incident Response Analyst | Purple Security Inc.**  
+📅 *January 2020 – Present*  
 
-**🛡️ DFIR Lead** | RocketRealEstateSolutions   
-_December 2024 – February 2025_
+- 🛠️ Spearheaded complex security incident investigations from initial detection to resolution, minimizing impact and recovery time.  
+- 📜 Developed and implemented incident response plans and playbooks, continuously refining processes based on emerging threats and lessons learned.  
+- 🔎 Conducted in-depth forensic analysis on compromised systems to identify root causes and attacker methodologies.  
+- 🤝 Collaborated cross-functionally with IT and development teams to implement preventative measures and enhance overall security posture.  
+- 🏆 Provided expert guidance and mentorship to junior analysts on incident response best practices and advanced analytical techniques.  
 
--  **Alert Management**: Monitored, analyzed & responded to alerts using Splunk, QRadar, AlienVault, Rapid7.
--  **Log Analysis**: Analyzed firewall, IDS/IPS, and endpoint logs.
--  **Client Communication**: First-level contact for client requests.
--  **Incident Handling**: Triage, determine severity, escalate as needed.
--  **Threat Hunting & Malware Analysis**
+## **DFIR Lead | RocketRealEstateSolutions**  
+📅 *December 2024 – February 2025*  
 
-**🛡️  Security Operations Center Engineer II** | Adventus IT Services (PH)   
-_May 2023 – November 2024_
+- 🚨 **Alert Management**: Monitored, analyzed & responded to alerts using Splunk, QRadar, AlienVault, Rapid7.  
+- 📊 **Log Analysis**: Analyzed firewall, IDS/IPS, and endpoint logs.  
+- 📞 **Client Communication**: First-level contact for client requests.  
+- 🔥 **Incident Handling**: Triage, determine severity, escalate as needed.  
+- 🎯 **Threat Hunting & Malware Analysis**  
 
-- **SOC Operations**: Monitored network traffic, logs, & security devices in 24/7 SOC.
-- **Incident Response**: Evaluated alerts, prioritized & escalated critical issues.
-- **Threat & Vulnerability Assessment**: Analyzed logs, identified threats, provided assessments.
-- **Vulnerability Scanning & Compliance**
+## **Security Operations Center Engineer II | Adventus IT Services (PH)**  
+📅 *May 2023 – November 2024*  
 
-**🕶️ Security Consultant (Penetration Tester)** | IT Dynamics   
-_August 2022 – October 2023_
+- 🌐 **SOC Operations**: Monitored network traffic, logs, & security devices in 24/7 SOC.  
+- ⚠️ **Incident Response**: Evaluated alerts, prioritized & escalated critical issues.  
+- 🔎 **Threat & Vulnerability Assessment**: Analyzed logs, identified threats, provided assessments.  
+- ✅ **Vulnerability Scanning & Compliance**  
 
-- 🔍 Network Penetration Testing
-- 🛠️ Manual Pen Testing
-- 🕸️ Application Security (VAPT)
+## **Security Consultant (Penetration Tester) | IT Dynamics**  
+📅 *August 2022 – October 2023*  
+
+- 🔍 **Network Penetration Testing**  
+- 🛠️ **Manual Pen Testing**  
+- 🕸️ **Application Security (VAPT)** 
 
 **🔬 Independent Security Researcher** | Bugcrowd   
 _January 2018 – Present_
