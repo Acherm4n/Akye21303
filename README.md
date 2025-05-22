@@ -131,6 +131,6 @@ I highly recommend that you, as the defenders complete 24 real-world practical l
 
 ![BTL1 phy](https://github.com/user-attachments/assets/9eb95066-5ba1-418b-a788-da7999f88649)
 
-![1](https://github.com/user-attachments/assets/0a1ea2d0-a6d4-4eda-aa09-55a4d1909244)
+![DFIR Profile (Website)](https://github.com/user-attachments/assets/f3a140b2-fa8c-4e0c-a686-fc45b77902a0)
 
 ![2](https://github.com/user-attachments/assets/91c24ea8-c4c0-4561-82d6-709b08768d8c)
