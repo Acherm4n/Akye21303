@@ -116,7 +116,7 @@ Zayd Majid
 
 John Dominick Limpag is my role model in cybersecurity. He began his career as a bug bounty hunter and subsequently secured a position as a Security Operations Center Engineer at Adventus. He is a co-founder of a school organization at Ateneo de Zamboanga University named the Information Security Students Organization, which aims to spread awareness and teach students about cybersecurity. I highly recommend him because he has an unquenchable thirst for knowledge, he is a diligent worker, and he possesses excellent cooperation skills.
 
-
+##  Achievements and Awards
 I’ve officially received Security Blue Team  my BTL1 physical certificate and challenge coin (Gold) fresh from United Kingdom.
 Practical 24-hour Incident Response exam.
 The Blue Teaml 1 (BTL1) is an excellent blue team training that covers very exciting domains like:
