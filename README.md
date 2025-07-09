@@ -55,16 +55,11 @@
 - 🤝 Collaborated cross-functionally with IT and development teams to implement preventative measures and enhance overall security posture.  
 - 🏆 Provided expert guidance and mentorship to junior analysts on incident response best practices and advanced analytical techniques.  
 
-**🔬 Independent Security Researcher** | Bugcrowd   
-_January 2018 – Present_
-- Actively participated in bug bounty programs, identifying and reporting critical vulnerabilities in web applications, APIs, and network infrastructures.
-- Demonstrated strong proficiency in various vulnerability assessment methodologies and responsible disclosure practices.
-- Continuously honed penetration testing and security analysis skills through real-world challenges and diverse target environments.
 
 ---
 
 ### 🎓 Certifications
-
+- Certified Network Security Practitioner (CNSP)
 - Security Analyst (SAL1): TryHackMe
 - Certified Blue Team Level 1: Security Blue Team
 - Certified Ethical Hacker (CEH): EC-Council
