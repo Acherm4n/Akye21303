@@ -42,9 +42,9 @@
 ## **Security Consultant (Penetration Tester) | IT Dynamics**  
 📅 *May 2022 - April 2023*  
 
-- 🔍 **Network Penetration Testing**  
-- 🛠️ **Manual Pen Testing**  
-- 🕸️ **Application Security (VAPT)** 
+-  **Network Penetration Testing**  
+-  **Manual Pen Testing**  
+-  **Application Security (VAPT)** 
 
 ## **Incident Response Analyst | Purple Security Inc.**  
 📅 * January 2019 -March 2022*  
