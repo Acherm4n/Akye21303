@@ -105,8 +105,7 @@
 ##  Compliance and Auditing Skills
 - NIST 800-171 & 800-53
 - ISO 27001
-- CIS Controls
-- PCI
+- PCI DSS
 - SOC 2
 
 ##  Recommendations
