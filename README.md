@@ -43,7 +43,7 @@
 📅 *May 2022 - April 2023*  
 
 -  **Network Penetration Testing**  
--  **Manual Pen Testing**  
+-  **Manual PenTesting**  
 -  **Application Security (VAPT)** 
 
 ## **Incident Response Analyst | Purple Security Inc.**  
