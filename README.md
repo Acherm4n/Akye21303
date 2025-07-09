@@ -89,15 +89,18 @@
 ## 🛡️ Security Tools and Technologies
 - Burp Suite
 - Kali Linux
-- Palo Alto Cortex XDR
+- Palo Alto Cortex XDR Analyst
 - DataDog SIEM
 - Splunk, ELK
 - Sophos
 - Trend Micro XDR Solution
-- Microsoft Defender, Sentinel
-- Microsoft Intune
-- Microsoft Intra
-- Microsoft Azure
+- Microsoft Defender, Sentinel Global Administrator
+- Microsoft Intune Global Administrator
+- Microsoft Intra Global Administrator
+- Microsoft Azure Global Administrator
+- Splunk
+- ForeScout
+- Qualyst
 
 ##  Compliance and Auditing Skills
 - NIST 800-171 & 800-53
