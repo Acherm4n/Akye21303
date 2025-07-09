@@ -67,7 +67,7 @@
 - SC-200: Microsoft 365 Defender: Microsoft
 - Certified AppSec Practitioner (CAP): The SecOps Group
 - Certified Cyber Security Analyst (C3SA): CyberWarfare Labs
-- Certified Ethical Hacking 101: TCM Security
+- Practical Ethical Hacking : TCM Security
 - Practical Malware Analysis & Triage: TCM Security
 - Certified Central Endpoint & Server Engineer: Sophos
 - Certified White Hat Hacker Level 2: Udemy
