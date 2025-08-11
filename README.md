@@ -98,6 +98,7 @@ Security Operations and the Defense Analyst
 - Palo Alto Cortex XDR
 - DataDog SIEM
 - Sophos
+- Fortinet
 - Trend Micro Solution
 - Microsoft Defender, Sentinel Global Administrator
 - Microsoft Intune Global Administrator
