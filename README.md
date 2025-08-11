@@ -59,6 +59,9 @@
 ---
 
 ### 🎓 Certifications
+- Splunk 
+Security Operations and the Defense Analyst
+- Cloud Security Professional: Cortex XQL
 - Certified Network Security Practitioner (CNSP)
 - Security Analyst (SAL1): TryHackMe
 - Certified Blue Team Level 1: Security Blue Team
